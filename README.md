@@ -1,4 +1,4 @@
-# FFT_for_OFDM
+# Design and Implementation of 64-point Fast Fourier Transform for OFDM
 The objective of the project is to design a 64-point Fast Fourier Transform chip. This chip has been
 successfully simulated and tested. It performs a forward and inverse 64-point FFT on a complex two-s
 complement data set in 23 clock cycles, making it suitable for high-speed data communication systems
