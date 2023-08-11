@@ -1,5 +1,6 @@
 # FFT_for_OFDM
-The objective of the project is to design a 64-point Fast Fourier Transform chip using Verilog. The 64-point FFT is realized by decomposing it into a two-dimensional structure of 8-point FFTs.
+The objective of the project is to design a 64-point Fast Fourier Transform chip using Verilog. The 64-point FFT is realized by 
+composing it into a two-dimensional structure of 8-point FFTs.
 Fast Fourier Transform (FFT) is an algorithm used to quickly calculate the Discrete 
 Fourier Transform (DFT) of a sequence of digital samples. The DFT is a mathematical 
 transformation that converts a sequence of time-domain samples into its frequencydomain representation.
@@ -17,3 +18,4 @@ mobile applications. A general purpose DSP with associated software is not
 beneficial for this application since on average, the power consumption of a 
 software solution is an order of magnitude higher compared to a functionally 
 equivalent dedicated hardware solution
+![project_report_page-0001](https://github.com/Nikhil201ec131/FFT_for_OFDM/assets/90630110/25b8ed51-2afa-4635-958a-1c3deb60094f)
